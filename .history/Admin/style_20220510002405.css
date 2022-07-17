@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  outline: none;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+header{
+  height: 100px;
+  width: 100vh;
+  border-bottom: 2px solid #dddd;
+  text-align: center;
+  align-items: center;
+}
